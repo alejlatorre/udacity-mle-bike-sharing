@@ -1,0 +1,7 @@
+.venv/
+AutogluonModels/
+data/*.csv
+data/*.zip
+*.html
+project_report.md
+*.zip
